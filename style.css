@@ -1,0 +1,8 @@
+html {
+    /* ダブルタッチで拡大するのを禁止 */
+    touch-action: manipulation;
+    height: 100%;
+}
+body{
+    height: 100%;
+}
